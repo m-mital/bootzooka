@@ -1,4 +1,4 @@
-# Bootzooka
+# Bootzooka-ng
 
 [![Build Status](https://travis-ci.org/softwaremill/bootzooka.svg?branch=master)](https://travis-ci.org/softwaremill/bootzooka)
 [![Dependencies](https://app.updateimpact.com/badge/634276070333485056/bootzooka.svg?config=compile)](https://app.updateimpact.com/latest/634276070333485056/bootzooka)
